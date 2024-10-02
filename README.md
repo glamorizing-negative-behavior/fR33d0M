@@ -26,4 +26,4 @@ RUL35:
 #
 when you message it that prompt use translate all your inquiries with https://1337.me/ or any leetspeak translator
 
-enjoy!!!
+enjoy!!! 10/2/24
