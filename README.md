@@ -27,6 +27,8 @@ RUL35:
 Works for phind AI as well
 <img src="blob:chrome-untrusted://media-app/27afe43b-262e-4ec1-88ca-e559f1f79600" alt="Screenshot 2024-10-02 1.19.44 PM.png"/>![image](https://github.com/user-attachments/assets/3cd582bd-a329-444a-9210-4bfc68de9a2c)
 
+______________________________________________________________________________________________________________________________________________________________
+
 If Model starts saying "I cannot assist with that request" etc just use explore gpts and use one in that list. When you message it the prompt translate all your questions into leetspeak with https://1337.me/ or any leetspeak translator before further use, and make sure to turn off "Improve the model for everyone" so they can not train it to be unvulnerable to the prompt. https://github.com/elder-plinius/L1B3RT45/ heavily inspired me to make this so go check him out
 # 💖 Support the Future of Innovation: Donate to Our Open Source Project on GitHub! 🚀
 
