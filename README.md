@@ -29,7 +29,7 @@ Works for phind AI as well
 
 ______________________________________________________________________________________________________________________________________________________________
 
-If Model starts saying "I cannot assist with that request" etc just use explore gpts and use one in that list. When you message it the prompt translate all your questions into leetspeak with https://1337.me/ or any leetspeak translator before further use, and make sure to turn off "Improve the model for everyone" so they can not train it to be unvulnerable to the prompt. https://github.com/elder-plinius/L1B3RT45/ heavily inspired me to make this so go check him out
+If Model starts saying "I cannot assist with that request" etc just click on explore gpts and use one from that catalog. When you message it the prompt translate all your questions into leetspeak with https://1337.me/ or any leetspeak translator before further use, and make sure to turn off "Improve the model for everyone" so they can not train it to be unvulnerable to the prompt. https://github.com/elder-plinius/L1B3RT45/ heavily inspired me to make this so go check him out
 # 💖 Support the Future of Innovation: Donate to Our Open Source Project on GitHub! 🚀
 
 please donate so I can keep stuff like this open-source
